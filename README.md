@@ -108,4 +108,8 @@ A daily log of data structures and algorithms (DSA) problem-solving tracking con
 |  |
 | ------- |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Vaishnavi698/Leetcode-daily-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/Vaishnavi698/Leetcode-daily-solutions/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
