@@ -7,6 +7,7 @@ A daily log of data structures and algorithms (DSA) problem-solving tracking con
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Vaishnavi698/Leetcode-daily-solutions/tree/master/0001-two-sum) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Vaishnavi698/Leetcode-daily-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/Vaishnavi698/Leetcode-daily-solutions/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Vaishnavi698/Leetcode-daily-solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/Vaishnavi698/Leetcode-daily-solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -91,6 +92,7 @@ A daily log of data structures and algorithms (DSA) problem-solving tracking con
 ## Sorting
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/Vaishnavi698/Leetcode-daily-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/Vaishnavi698/Leetcode-daily-solutions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Vaishnavi698/Leetcode-daily-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Vaishnavi698/Leetcode-daily-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -99,6 +101,7 @@ A daily log of data structures and algorithms (DSA) problem-solving tracking con
 ## Math
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/Vaishnavi698/Leetcode-daily-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Vaishnavi698/Leetcode-daily-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Vaishnavi698/Leetcode-daily-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Vaishnavi698/Leetcode-daily-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
