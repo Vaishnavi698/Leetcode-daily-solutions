@@ -128,6 +128,7 @@ A daily log of data structures and algorithms (DSA) problem-solving tracking con
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Vaishnavi698/Leetcode-daily-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Vaishnavi698/Leetcode-daily-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Vaishnavi698/Leetcode-daily-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Vaishnavi698/Leetcode-daily-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Vaishnavi698/Leetcode-daily-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Vaishnavi698/Leetcode-daily-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Vaishnavi698/Leetcode-daily-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -174,6 +175,7 @@ A daily log of data structures and algorithms (DSA) problem-solving tracking con
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Vaishnavi698/Leetcode-daily-solutions/tree/master/1291-sequential-digits) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Vaishnavi698/Leetcode-daily-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Vaishnavi698/Leetcode-daily-solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Vaishnavi698/Leetcode-daily-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Number Theory
