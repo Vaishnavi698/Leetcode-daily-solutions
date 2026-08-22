@@ -158,6 +158,7 @@ A daily log of data structures and algorithms (DSA) problem-solving tracking con
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Vaishnavi698/Leetcode-daily-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Vaishnavi698/Leetcode-daily-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Vaishnavi698/Leetcode-daily-solutions/tree/master/3536-maximum-product-of-two-digits) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Vaishnavi698/Leetcode-daily-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Vaishnavi698/Leetcode-daily-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Vaishnavi698/Leetcode-daily-solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Vaishnavi698/Leetcode-daily-solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
