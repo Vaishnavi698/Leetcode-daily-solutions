@@ -7,6 +7,7 @@ A daily log of data structures and algorithms (DSA) problem-solving tracking con
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Vaishnavi698/Leetcode-daily-solutions/tree/master/0001-two-sum) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Vaishnavi698/Leetcode-daily-solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0486-predict-the-winner](https://github.com/Vaishnavi698/Leetcode-daily-solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vaishnavi698/Leetcode-daily-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Vaishnavi698/Leetcode-daily-solutions/tree/master/0877-stone-game) |
@@ -101,6 +102,7 @@ A daily log of data structures and algorithms (DSA) problem-solving tracking con
 ## Binary Search
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Vaishnavi698/Leetcode-daily-solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Vaishnavi698/Leetcode-daily-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Vaishnavi698/Leetcode-daily-solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Vaishnavi698/Leetcode-daily-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -287,6 +289,7 @@ A daily log of data structures and algorithms (DSA) problem-solving tracking con
 ## Segment Tree
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Vaishnavi698/Leetcode-daily-solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Vaishnavi698/Leetcode-daily-solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Vaishnavi698/Leetcode-daily-solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Counting Sort
@@ -345,9 +348,26 @@ A daily log of data structures and algorithms (DSA) problem-solving tracking con
 ## Ordered Set
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Vaishnavi698/Leetcode-daily-solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Vaishnavi698/Leetcode-daily-solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Linked List
 |  |
 | ------- |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Vaishnavi698/Leetcode-daily-solutions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Vaishnavi698/Leetcode-daily-solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Vaishnavi698/Leetcode-daily-solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Merge Sort
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Vaishnavi698/Leetcode-daily-solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Treap
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Vaishnavi698/Leetcode-daily-solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 <!---LeetCode Topics End-->
