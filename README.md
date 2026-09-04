@@ -370,4 +370,8 @@ A daily log of data structures and algorithms (DSA) problem-solving tracking con
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Vaishnavi698/Leetcode-daily-solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Database
+|  |
+| ------- |
+| [0180-consecutive-numbers](https://github.com/Vaishnavi698/Leetcode-daily-solutions/tree/master/0180-consecutive-numbers) |
 <!---LeetCode Topics End-->
