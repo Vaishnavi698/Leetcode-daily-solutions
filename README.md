@@ -115,6 +115,7 @@ A daily log of data structures and algorithms (DSA) problem-solving tracking con
 | [0115-distinct-subsequences](https://github.com/Vaishnavi698/Leetcode-daily-solutions/tree/master/0115-distinct-subsequences) |
 | [0486-predict-the-winner](https://github.com/Vaishnavi698/Leetcode-daily-solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Vaishnavi698/Leetcode-daily-solutions/tree/master/0877-stone-game) |
+| [0940-distinct-subsequences-ii](https://github.com/Vaishnavi698/Leetcode-daily-solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/Vaishnavi698/Leetcode-daily-solutions/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/Vaishnavi698/Leetcode-daily-solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/Vaishnavi698/Leetcode-daily-solutions/tree/master/1406-stone-game-iii) |
@@ -191,6 +192,7 @@ A daily log of data structures and algorithms (DSA) problem-solving tracking con
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/Vaishnavi698/Leetcode-daily-solutions/tree/master/0115-distinct-subsequences) |
+| [0940-distinct-subsequences-ii](https://github.com/Vaishnavi698/Leetcode-daily-solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Vaishnavi698/Leetcode-daily-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1927-sum-game](https://github.com/Vaishnavi698/Leetcode-daily-solutions/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Vaishnavi698/Leetcode-daily-solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
