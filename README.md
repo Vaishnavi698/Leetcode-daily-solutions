@@ -10,6 +10,7 @@ A daily log of data structures and algorithms (DSA) problem-solving tracking con
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Vaishnavi698/Leetcode-daily-solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0486-predict-the-winner](https://github.com/Vaishnavi698/Leetcode-daily-solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vaishnavi698/Leetcode-daily-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0835-image-overlap](https://github.com/Vaishnavi698/Leetcode-daily-solutions/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/Vaishnavi698/Leetcode-daily-solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Vaishnavi698/Leetcode-daily-solutions/tree/master/1140-stone-game-ii) |
 | [1288-remove-covered-intervals](https://github.com/Vaishnavi698/Leetcode-daily-solutions/tree/master/1288-remove-covered-intervals) |
@@ -95,6 +96,7 @@ A daily log of data structures and algorithms (DSA) problem-solving tracking con
 ## Matrix
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/Vaishnavi698/Leetcode-daily-solutions/tree/master/0835-image-overlap) |
 | [1301-number-of-paths-with-max-score](https://github.com/Vaishnavi698/Leetcode-daily-solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Vaishnavi698/Leetcode-daily-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Vaishnavi698/Leetcode-daily-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
