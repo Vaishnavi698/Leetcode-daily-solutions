@@ -292,6 +292,7 @@ A daily log of data structures and algorithms (DSA) problem-solving tracking con
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Vaishnavi698/Leetcode-daily-solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Vaishnavi698/Leetcode-daily-solutions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Vaishnavi698/Leetcode-daily-solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/Vaishnavi698/Leetcode-daily-solutions/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Prefix Sum
 |  |
 | ------- |
