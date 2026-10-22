@@ -66,6 +66,7 @@ A daily log of data structures and algorithms (DSA) problem-solving tracking con
 | [3886-sum-of-sortable-integers](https://github.com/Vaishnavi698/Leetcode-daily-solutions/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/Vaishnavi698/Leetcode-daily-solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Vaishnavi698/Leetcode-daily-solutions/tree/master/3904-smallest-stable-index-ii) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/Vaishnavi698/Leetcode-daily-solutions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Hash Table
 |  |
 | ------- |
