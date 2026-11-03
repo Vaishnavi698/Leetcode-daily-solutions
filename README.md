@@ -66,6 +66,7 @@ A daily log of data structures and algorithms (DSA) problem-solving tracking con
 | [3718-smallest-missing-multiple-of-k](https://github.com/Vaishnavi698/Leetcode-daily-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Vaishnavi698/Leetcode-daily-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Vaishnavi698/Leetcode-daily-solutions/tree/master/3731-find-missing-elements) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Vaishnavi698/Leetcode-daily-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Vaishnavi698/Leetcode-daily-solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Vaishnavi698/Leetcode-daily-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Vaishnavi698/Leetcode-daily-solutions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -269,6 +270,7 @@ A daily log of data structures and algorithms (DSA) problem-solving tracking con
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Vaishnavi698/Leetcode-daily-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Vaishnavi698/Leetcode-daily-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Vaishnavi698/Leetcode-daily-solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Vaishnavi698/Leetcode-daily-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Vaishnavi698/Leetcode-daily-solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Vaishnavi698/Leetcode-daily-solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Vaishnavi698/Leetcode-daily-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
