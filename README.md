@@ -83,6 +83,7 @@ A daily log of data structures and algorithms (DSA) problem-solving tracking con
 | [3886-sum-of-sortable-integers](https://github.com/Vaishnavi698/Leetcode-daily-solutions/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/Vaishnavi698/Leetcode-daily-solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Vaishnavi698/Leetcode-daily-solutions/tree/master/3904-smallest-stable-index-ii) |
+| [3934-smallest-unique-subarray](https://github.com/Vaishnavi698/Leetcode-daily-solutions/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Vaishnavi698/Leetcode-daily-solutions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Hash Table
 |  |
@@ -113,6 +114,7 @@ A daily log of data structures and algorithms (DSA) problem-solving tracking con
 | [3718-smallest-missing-multiple-of-k](https://github.com/Vaishnavi698/Leetcode-daily-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Vaishnavi698/Leetcode-daily-solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/Vaishnavi698/Leetcode-daily-solutions/tree/master/3731-find-missing-elements) |
+| [3934-smallest-unique-subarray](https://github.com/Vaishnavi698/Leetcode-daily-solutions/tree/master/3934-smallest-unique-subarray) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -176,6 +178,7 @@ A daily log of data structures and algorithms (DSA) problem-solving tracking con
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Vaishnavi698/Leetcode-daily-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Vaishnavi698/Leetcode-daily-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Vaishnavi698/Leetcode-daily-solutions/tree/master/3620-network-recovery-pathways) |
+| [3934-smallest-unique-subarray](https://github.com/Vaishnavi698/Leetcode-daily-solutions/tree/master/3934-smallest-unique-subarray) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -630,4 +633,16 @@ A daily log of data structures and algorithms (DSA) problem-solving tracking con
 |  |
 | ------- |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Vaishnavi698/Leetcode-daily-solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Vaishnavi698/Leetcode-daily-solutions/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Vaishnavi698/Leetcode-daily-solutions/tree/master/3934-smallest-unique-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Vaishnavi698/Leetcode-daily-solutions/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
