@@ -86,6 +86,7 @@ A daily log of data structures and algorithms (DSA) problem-solving tracking con
 | [3934-smallest-unique-subarray](https://github.com/Vaishnavi698/Leetcode-daily-solutions/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Vaishnavi698/Leetcode-daily-solutions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/Vaishnavi698/Leetcode-daily-solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/Vaishnavi698/Leetcode-daily-solutions/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -148,6 +149,7 @@ A daily log of data structures and algorithms (DSA) problem-solving tracking con
 | [2333-minimum-sum-of-squared-difference](https://github.com/Vaishnavi698/Leetcode-daily-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Vaishnavi698/Leetcode-daily-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/Vaishnavi698/Leetcode-daily-solutions/tree/master/3620-network-recovery-pathways) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/Vaishnavi698/Leetcode-daily-solutions/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -261,6 +263,7 @@ A daily log of data structures and algorithms (DSA) problem-solving tracking con
 | [3731-find-missing-elements](https://github.com/Vaishnavi698/Leetcode-daily-solutions/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Vaishnavi698/Leetcode-daily-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3886-sum-of-sortable-integers](https://github.com/Vaishnavi698/Leetcode-daily-solutions/tree/master/3886-sum-of-sortable-integers) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/Vaishnavi698/Leetcode-daily-solutions/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Math
 |  |
 | ------- |
@@ -398,6 +401,7 @@ A daily log of data structures and algorithms (DSA) problem-solving tracking con
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Vaishnavi698/Leetcode-daily-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Vaishnavi698/Leetcode-daily-solutions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/Vaishnavi698/Leetcode-daily-solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/Vaishnavi698/Leetcode-daily-solutions/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
